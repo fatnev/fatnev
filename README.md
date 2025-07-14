@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my personal profile, my work profile is here https://github.com/gnvs
+
 <!--
 **fatnev/fatnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
