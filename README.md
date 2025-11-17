@@ -12,7 +12,3 @@ My name is George, and I specialize in creating and maintaining websites. Here y
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
-
-#### This is my personal profile. 
-
-The full work profile is located at: https://github.com/gnvs
